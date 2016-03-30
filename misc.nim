@@ -1,4 +1,4 @@
-import jester, asyncdispatch, asyncfile, os, strutils, math, json
+import net, jester, asyncdispatch, asyncfile, os, strutils, math, json
 
 var splashes: seq[string] = @[]
 
@@ -9,6 +9,9 @@ proc loadSplashes() {.async} =
     for line in splitLines(data):
         splashes.add(line)
     file.close()
+
+settings:
+    port = Port(23340)
 
 routes:
     get "/splash":
