@@ -1,0 +1,99 @@
+But our great security lies, I think, in our growing strength.
+Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.
+Mankind naturally and generally love to be flatter'd.
+If all printers were determined not to print anything till they were sure it would offend nobody, there would be very little printed.
+Remember that time is money.
+Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight.
+I've finally learned what "upward compatible" means. It means we get to keep all our old mistakes.
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+While corporations dominate society and write the laws, each advance in technology is an opening for them to further restrict its users.
+Talk is cheap. Show me the code.
+Theory and practice sometimes clash. And when that happens, theory loses. Every single time.
+Playfully doing something difficult, whether useful or not, that is hacking.
+The Adobe flash plug-in is non-free software, and people should not install it, or suggest installing it, or even tell people it exists.
+It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+The teaching of BASIC should be rated as a criminal offence: it mutilates the mind beyond recovery.
+I always knew that one day Smalltalk would replace Java. I just didn't know it would be called Ruby.
+Java is, in many ways, C++--.
+In 30 years Lisp will likely be ahead of C++/Java (but behind something else)
+Java is C++ without the guns, knives, and clubs.
+Making Linux GPL'd was definitely the best thing I ever did.
+If you want to know why Lisp doesn't win around you, find a mirror.
+A Lisp programmer knows the value of everything, but the cost of nothing.
+Give me the liberty to know, to utter, and to argue freely according to conscience, above all liberties.
+Without Freedom of Thought, there can be no such Thing as Wisdom; and no such Thing as publick Liberty, without Freedom of Speech.
+There is nothing so fretting and vexatious, nothing so justly TERRIBLE to tyrants, and their tools and abettors, as a FREE PRESS.
+Every man has a right to utter what he thinks truth, and every other man has a right to knock him down for it.
+Error of opinion may be tolerated where reason is left free to combat it.
+How absurd men are! They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech.
+And I honor the man who is willing to sink / Half his present repute for the freedom to think, / And, when he has thought, be his cause strong or weak, / Will risk t'other half for the freedom to speak.
+I disapprove of what you say, but I will defend to the death your right to say it.
+Let's put it this way: if you need to ask a lawyer whether what you do is "right" or not, you are morally corrupt. Let's not go there. We don't base our morality on law.
+This hand, to tyrants ever sworn the foe, / For freedom only deals the deadly blow; / Then sheathes in calm repose the vengeful blade, / For gentle peace in freedom's hallowed shade.
+Peace at home, peace in the world.
+Where there is no justice there can be no secure peace.
+If we are serious about peace, then we must work for it as ardently, seriously, continuously, carefully, and bravely as we have ever prepared for war.
+In peace I will both lie down and sleep, For you yourself alone, O Jehovah, make me dwell in security.
+Peace cannot be kept by force. It can only be achieved by understanding.
+There never was a good war, or a bad peace.
+Breathe soft, ye winds! ye waves, in silence sleep!
+Blessed are the peacemakers; for they shall be called the children of God.
+The days of peace and slumberous calm are fled.
+Engineering is the conscious application of science to the problem of economic production.
+Engineering is the art of directing the great sources of power in nature for the use and convenience of man.
+It may be that our role on this planet is not to worship God but to create him.
+Any AI smart enough to pass a Turing test is smart enough to know to fail it.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+A year spent in artificial intelligence is enough to make one believe in God.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+My son was one of a kind. You are the first of a kind. David?
+The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else.
+The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+A solution which does not prepare for the next round with some increased insight is hardly a solution at all.
+There is always an easy solution to every human problem — neat, plausible, and wrong.
+If you're not part of the solution, you're part of the precipitate.
+In mathematics the art of asking questions is more valuable than solving problems.
+The value of a prototype is in the education it gives you, not in the code itself.
+Eagleson's Law: Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+A language that doesn't affect the way you think about programming is not worth knowing.
+Every program has two purposes: The one for which it was written and another for which it wasn't.
+The best way to predict the future is to implement it.
+You do not really understand something unless you can explain it to your grandmother.
+Make everything as simple as possible, but not simpler.
+And the users exclaimed with a laugh and a taunt: It's just what we asked for but not what we want.
+A person without data is just another person with an opinion.
+Why do we never have time to do it right, but always have time to do it over?
+Sure I could program in PHP, but I could also use a sundial to tell time.
+Features, quality, time: pick two.
+XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+It's not a bug - it's an undocumented feature.
+Beta. Software undergoes beta testing shortly before it's released. Beta is Latin for "still doesn't work."
+Good programming is 99% sweat and 1% coffee.
+All programmers are playwrights and all computers are lousy actors.
+Programmer - an organism that turns coffee into software.
+In order to understand recursion, one must first understand recursion.
+Never trust a programmer in a suit.
+It works on my machine.
+Premature optimization is the root of all evil in programming.
+Users who want critical bug fixes and new features without actually upgrading their software also want magic flying candy-dropping ponies.
+The most secure code in the world is code which is never written.
+Learn the principle, abide by the principle, and dissolve the principle.
+Compatibility means deliberately repeating other people's mistakes.
+You don't have a scaling problem yet.
+The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'
+My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.
+Although September 11 was horrible, it didn't threaten the survival of the human race, like nuclear weapons do.
+Life would be tragic if it weren't funny.
+It is a waste of time to be angry about my disability. One has to get on with life and I haven't done badly. People won't have time for you if you are always angry or complaining.
+Science predicts that many different kinds of universe will be spontaneously created out of nothing. It is a matter of chance which we are in.
+We are all different - but we share the same human spirit. Perhaps it's human nature that we adapt - and survive.
+Hardware: the parts of a computer system that can be kicked.
+Deleted code is debugged code.
+It's a lot easier to talk about code than it is to write code.
+Anything that can possibly go wrong, will go wrong.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+True innovation often comes from the small startup who is lean enough to launch a market but lacks the heft to own it.
+I don't care if it works on your machine! We are not shipping your machine!
+A program is portable to the extent that it can be easily moved to a new computing environment with much less effort than would be required to write it afresh.
